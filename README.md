@@ -1,4 +1,11 @@
- The dashboard primarily displays the total balance, expenses, bonus, a line graph of income and expenses, and a calendar for navigating and displaying details. It also provides a detailed visualization of the costs. Let's focus on these specific components and how they can be designed:
+Name :  yogalakshmi S 
+company: CODTECH IT SOLUTIONS
+ID: CT08DS2394
+Domain: UI/UX design
+Duration: June 15th - July 15th 2024
+
+
+The dashboard primarily displays the total balance, expenses, bonus, a line graph of income and expenses, and a calendar for navigating and displaying details. It also provides a detailed visualization of the costs. Let's focus on these specific components and how they can be designed:
 
 Key Components of the Dashboard : 
 Total Balance, Expenses, and Bonus
@@ -37,4 +44,5 @@ Responsiveness: Ensure the layout is responsive and looks good on various device
 Interactivity: Enable interactive elements like clickable dates on the calendar and hover effects on the graph.
 Customization: Allow users to filter data and customize views according to their preferences.
 Security: Implement security measures to protect user data.
+
 By focusing on these components and design considerations, the dashboard can effectively help users monitor their personal finances, control expenses, and gain insights into their financial habits.
